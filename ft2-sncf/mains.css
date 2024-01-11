@@ -1,10 +1,11 @@
-html{
-    font-size: 62.5%;
+.header{
+    background-color: #fff;
 }
 
-body{
-    margin: 0;
-    padding: 0;
-    background: #D0D2D3;
+.sidebar {
+    background-color: #1c1f23;
+}
 
+.main {
+    background-color: #c3c5ca;
 }
