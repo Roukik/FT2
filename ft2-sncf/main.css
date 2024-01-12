@@ -17,6 +17,12 @@ body{
 }
 
 
+.tout{
+    margin: 6rem 0;
+
+}
+
+
 
   .icons {
     flex-direction: column;
@@ -29,4 +35,5 @@ body{
     align-items: flex-start;
     gap: 25px;
     transform: translate(50%);
+
   }
