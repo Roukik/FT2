@@ -11,5 +11,29 @@ body{
 }
 
 .main {
+<<<<<<< HEAD
     background-color: #82858c;
+=======
+    background-color: #435fa7;
+
+>>>>>>> 113da39359a446066bc945869cdcf27e44cf9cc1
 }
+
+.logo {
+    display: flex;
+    flex-direction: column;
+    
+  }
+  
+  .icons {
+    flex-direction: column;
+    display: flex;
+    margin-bottom: 10px;
+    height: auto; 
+    margin-bottom: 10px; 
+    width: 28px;
+    height: 751.8px;
+    align-items: flex-start;
+    gap: 25px;
+    transform: translate(50%);
+  }
