@@ -47,7 +47,8 @@ body{
   #dashboard {
     display: flex;
     justify-content: space-around;
-    padding: 2em;
+    padding: 2em;  
+    align-items: center;
 }
 
 .widget {
@@ -57,6 +58,7 @@ body{
     margin: 1em;
     flex: 1;
 }
+
 #chart {
   height: 300px;
 }
@@ -70,3 +72,4 @@ li {
   padding: 0.5em;
   border-bottom: 1px solid #ddd;
 }
+
