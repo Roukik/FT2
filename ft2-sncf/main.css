@@ -14,15 +14,21 @@ body{
 .main {
     background-color:#ffffff;
     margin-right: 25%;
+    margin-bottom: 103px;
 }
 
 
 .tout{
     margin: 6rem 0;
-
 }
 
+ .tout .logo {
+  width: 68px;
+  height: auto;
+  flex-wrap: 68px;
+  display: flex;
 
+}
 
   .icons {
     flex-direction: column;
@@ -35,5 +41,6 @@ body{
     align-items: flex-start;
     gap: 25px;
     transform: translate(50%);
+    margin-top: 50px;
 
   }
