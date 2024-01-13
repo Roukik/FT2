@@ -1,8 +1,6 @@
 html{
     font-size: 62.5%;
-
 }
-
 
 body{
     height: 100vh;
@@ -10,13 +8,19 @@ body{
     grid-template-columns: 80px 1fr;
     grid-template-rows: 0px ;
     margin: 0 auto;
+    background-color: #D0D2D3;
 }
 
 .main {
-    background-color: #82858c;
+    background-color:#ffffff;
+    margin-right: 25%;
 }
 
 
+.tout{
+    margin: 6rem 0;
+
+}
 
 
 
