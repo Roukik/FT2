@@ -1,6 +1,8 @@
 html{
     font-size: 62.5%;
+
 }
+
 
 body{
     height: 100vh;
@@ -14,22 +16,10 @@ body{
     background-color: #82858c;
 }
 
-<<<<<<< HEAD
-.logo {
-    display: flex;
-    flex-direction: column;
-  }
-  
-=======
-
-.tout{
-    margin: 6rem 0;
-
-}
 
 
 
->>>>>>> 9a19166a01ae4ade0cbf3159dace557c1ee68ff9
+
   .icons {
     flex-direction: column;
     display: flex;
