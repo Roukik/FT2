@@ -50,7 +50,14 @@ body{
   padding: 2em;
 }
 
-.widget {
+.droite{
+  background:#D0D2D3;
+  box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+  padding: 1em;
+  margin: 1em;
+  flex: 1;
+}
+.gauche{
   background: #004B72;
   box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
   padding: 1em;
