@@ -8,16 +8,17 @@ body{
     grid-template-columns: 80px 1fr;
     grid-template-rows: 0px ;
     margin: 0 auto;
-    background-color: #D0D2D3;
 }
 
 .main {
-    background-color:#ffffff;
-    margin-right: 25%;
+    background-color: #82858c;
 }
 
-
-
+.logo {
+    display: flex;
+    flex-direction: column;
+  }
+  
   .icons {
     flex-direction: column;
     display: flex;
