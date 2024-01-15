@@ -52,7 +52,6 @@ body{
 
 .droite{
   background:#D0D2D3;
-  box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
   padding: 1em;
   margin: 1em;
   flex: 1;
