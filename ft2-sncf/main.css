@@ -127,33 +127,82 @@ li {
 }
 
 .graph-container {
-  position: absolute;
+  position: relative;
   top: 10%;
   left: 50%;
   transform: translate(-50%, -50%);
-  width: 707px; 
-  height: 200px; 
+  width: 730px; 
+  height: 367px; 
   background-color: white;
 }
 
 .graph2-container {
-  position: absolute;
+  position: relative;
   top: 10%;
   left: 50%;
   transform: translate(-50%, -50%);
-  width: 707px; 
-  height: 200px; 
+  width: 730px; 
+  height: 367px; 
   background-color: white;
 }
 
 .additional-squares {
   display: flex;
-  top: 50%;
-  left: 10%;
-  width: 100px; 
-  height: 100px; 
-  background-color: white;
-  margin: 10px; 
-  top: 10%;
+  justify-content: center;
+  position: absolute;
+  bottom: 0;
+  top: 600px;
   left: 50%;
+  transform: translateX(-50%);
+
+
+}
+ .square{
+  width: 100px; 
+  height: 100px;
+  background-color: white;
+  margin: 10px;
+  margin-left: 100px; 
+}
+
+.additional-squares2 {
+  display: flex;
+  justify-content: center;
+  position: absolute;
+  bottom: 0;
+  top: 440px;
+  left: 50%;
+  transform: translateX(-50%);
+
+
+}
+ .square2 {
+  width: 100px; 
+  height: 100px;
+  background-color: white;
+  margin: 10px;
+  margin-left: 100px; 
+}
+.circle {
+  position: absolute;
+  bottom: 200px; 
+  width: 200px; 
+  height: 200px; 
+  background-color: #004B72; 
+  border-radius: 50%; 
+  left: 20%; 
+  top: 300px;
+  transform: translateX(-50%);
+}
+
+.circle2 {
+  position: absolute;
+  bottom: 200px; 
+  width: 200px; 
+  height: 200px; 
+  background-color: white; 
+  border-radius: 50%; 
+  left: 20%; 
+  top: 300px;
+  transform: translateX(-50%);
 }
